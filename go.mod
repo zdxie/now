@@ -1,3 +1,3 @@
-module github.com/jinzhu/now
+module github.com/zdxie/now
 
 go 1.12
